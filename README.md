@@ -2,7 +2,7 @@
 
 [下载链接点击这里](https://github.com/VillanCh/palm-kit-desktop/releases/tag/0.1.0)
 
-
+![](./imgs/palm-kit-xray.jpg)
 
 ## 版本支持:
 
